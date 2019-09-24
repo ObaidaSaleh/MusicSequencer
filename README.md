@@ -1,0 +1,4 @@
+# MusicSequencer
+The goal is to implement the data storage component of a mini music sequencer. A sequencer is a program that stores, organizes, and allows a user to manipulate musical notes. Sequencers enable individual artists to arrange and perform songs that involve multiple instruments playing together - by recording the parts played by individual instruments one by one, and then having the sequencer play them back while the artists takes care of the main track (or the vocals). There are many free, open source sequencers you can play with if you're curious. For example, Hydrogen is a drum pattern sequencer you can install and play with (comes with a pretty high quality set of drum sounds):
+
+This assignment was for CSCA48, and was done in C. This utilitzed concepts such as BSTs, linked-lists, and recursion.
